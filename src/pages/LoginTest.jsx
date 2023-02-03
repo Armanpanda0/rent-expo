@@ -1,6 +1,6 @@
 import React from 'react';
 // import {ReactComponent as Logo} from '../../assets/instagram.svg'
-import '../styles/login.css';
+import '../styles/LoginTest.css';
 class Login extends React.Component{
     state={
         email:'',
