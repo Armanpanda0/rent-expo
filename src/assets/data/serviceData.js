@@ -35,7 +35,10 @@ const serviceData = [
   },
 
   
+<<<<<<< HEAD
+=======
   
+>>>>>>> d1c943281e14a277c478da35f01985ce178ad6c2
 ];
 
 export default serviceData;
