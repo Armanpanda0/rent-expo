@@ -45,7 +45,9 @@ const CarDetails = () => {
                     ({singleCarItem.rating} ratings)
                   </span>
                 </div>
-
+                <p className="section__description" style={{fontSize:20}}>
+                  by {singleCarItem.userName}
+                </p>
                 <p className="section__description">
                   {singleCarItem.description}
                 </p>
@@ -105,7 +107,6 @@ const CarDetails = () => {
                   </span>
                 </div>
               </div>
-            </Col>
 
             <Col lg="7" className="mt-5">
               <div className="booking-info mt-5">
