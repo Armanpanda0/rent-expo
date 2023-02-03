@@ -1,6 +1,6 @@
 .common__section {
-  background: linear-gradient(rgb(0, 13, 107, 0.6), rgb(0, 13, 107, 0.6)),
-    url("../assets/all-images/drive.jpg");
+  background: linear-gradient(rgba(29, 222, 15, 0.355), rgba(79, 98, 238, 0.6)),
+    url("https://cdn.dribbble.com/users/2208826/screenshots/15760865/_____.png?compress=1&resize=400x300");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;

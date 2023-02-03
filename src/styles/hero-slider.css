@@ -51,11 +51,11 @@
 .reserve__btn a {
   text-decoration: none;
   font-weight: 600;
-  color: #000d6b;
+  color: #d24d10;
 }
 
 .reserve__btn:hover {
-  background: #000d6b;
+  background: #d8520b;
   color: #fff;
 }
 

@@ -57,7 +57,7 @@ const AboutSection = ({ aboutClass }) => {
           <Col lg="6" md="6">
             <div className="about__img">
             <video loading="lazy" muted="muted" className="w-100" autoPlay loop>
-            <source src="https://cdnl.iconscout.com/lottie/premium/thumb/book-car-on-rent-app-6449875-5384722.mp4" type="video/mp4"   />
+            <source src="https://images.unsplash.com/photo-1449426468159-d96dbf08f19f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTV8fG1vdGVyJTIwYmlrZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=900&q=60" type="video/mp4"   />
             </video>
             </div>
           </Col>
