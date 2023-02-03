@@ -5,7 +5,7 @@
 }
 
 .slider__item-01 {
-  background: linear-gradient(rgb(0, 13, 107, 0.5), rgb(0, 13, 107, 0.5)),
+  background: linear-gradient(rgba(177, 49, 6, 0.555), rgb(0, 13, 107, 0.5)),
     url("https://cdnl.iconscout.com/lottie/premium/thumb/people-book-cab-through-mobile-app-6235829-5121494.mp4");
   background-position: center;
   background-repeat: no-repeat;
