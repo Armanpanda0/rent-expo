@@ -16,6 +16,7 @@ const CarDetails = () => {
     window.scrollTo(0, 0);
   }, [singleCarItem]);
 
+
   return (
     <Helmet title={singleCarItem.carName}>
       <section>
