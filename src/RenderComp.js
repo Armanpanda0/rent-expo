@@ -8,7 +8,7 @@ const RenderComp = ({children}) => {
     useEffect(()=>{
 
 
-        if(window.location.pathname==="/login")
+        if(window.location.pathname==="/login" || window.location.pathname==="/profile")
         {
                 data.setIsVisible(false)
         }
