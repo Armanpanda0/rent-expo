@@ -10,6 +10,7 @@ import NotFound from "../pages/NotFound";
 import Contact from "../pages/Contact";
 import SearchTest from "../pages/SearchTest";
 import LoginTest from "../pages/LoginTest";
+import Profile from "../pages/Profile";
 
 const Routers = ({isVisible,setIsVisible}) => {
   return (
@@ -19,6 +20,8 @@ const Routers = ({isVisible,setIsVisible}) => {
       {/* <Route path="/login" element={<Login />} /> */}
       <Route path="/searchTest" element={<SearchTest />} />
       <Route path="/login" element={<LoginTest />} />
+      <Route path="/profile" element={<Profile />} />
+      
       <Route path="/about" element={<About />} />
       <Route path="/cars" element={<CarListing />} />
       <Route path="/cars/:slug" element={<CarDetails />} />
