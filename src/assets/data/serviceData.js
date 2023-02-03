@@ -34,11 +34,5 @@ const serviceData = [
     desc: "Tempor tempor sadipscing vero lorem sea, invidunt sed et eos ipsum et erat. Dolor ut duo sadipscing lorem. Gubergren gub",
   },
 
-  
-<<<<<<< HEAD
-=======
-  
->>>>>>> d1c943281e14a277c478da35f01985ce178ad6c2
 ];
-
 export default serviceData;
