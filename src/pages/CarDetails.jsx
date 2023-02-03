@@ -108,6 +108,7 @@ const CarDetails = () => {
                   </span>
                 </div>
               </div>
+            </Col>
 
             <Col lg="7" className="mt-5">
               <div className="booking-info mt-5">
