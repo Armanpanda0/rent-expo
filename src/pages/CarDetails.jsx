@@ -16,6 +16,7 @@ const CarDetails = () => {
     window.scrollTo(0, 0);
   }, [singleCarItem]);
 
+
   return (
     <Helmet title={singleCarItem.carName}>
       <section>
@@ -45,7 +46,9 @@ const CarDetails = () => {
                     ({singleCarItem.rating} ratings)
                   </span>
                 </div>
-
+                <p className="section__description" style={{fontSize:20}}>
+                  by {singleCarItem.userName}
+                </p>
                 <p className="section__description">
                   {singleCarItem.description}
                 </p>

@@ -72,11 +72,9 @@ const Footer = () => {
           <Col lg="3" md="4" sm="6">
             <div className="mb-4">
               <h5 className="footer__link-title mb-4">TEAM MEMBERS</h5>
-              <p className="office__info">amrit sagar behera</p>
-              <p className="office__info">chirag das</p>
-
-              <p className="office__info">arman panda</p>
-
+              <p className="office__info">Amrit sagar behera</p>
+              <p className="office__info">Chirag das</p>
+              <p className="office__info">Arman panda</p>
               <p className="office__info">Aditya narayan sahoo</p>
               <p className="office__info">Arijit panda</p>
             </div>
@@ -84,7 +82,7 @@ const Footer = () => {
 
           <Col lg="3" md="4" sm="12">
             <div className="mb-4">
-              <h5 className="footer__link-title">Newsletter</h5>
+              <h5 className="footer__link-title">Our_EzzE_RiDeS</h5>
               <p className="section__description">Subscribe our newsletter</p>
               <div className="newsletter">
                 <input type="email" placeholder="Email" />

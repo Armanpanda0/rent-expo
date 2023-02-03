@@ -46,7 +46,7 @@ ul {
 }
 
 .section__title {
-  color: #000d6b;
+  color: #e26618;
   font-weight: 600;
   font-size: 2rem;
 }
@@ -79,7 +79,7 @@ section {
 
 .btn:hover {
   color: #fff !important;
-  background: #000c6bd0;
+  background: #55e90bd0;
 }
 
 @media only screen and (max-width: 768px) {
