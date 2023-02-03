@@ -16,14 +16,14 @@ const FindCarForm = () => {
         </FormGroup>
 
         <FormGroup className="form__group">
-          <input type="date" placeholder="Journey date" required />
+          <input type="date" placeholder="date" required />
         </FormGroup>
 
         <FormGroup className="form__group">
           <input
             className="journey__time"
             type="time"
-            placeholder="Journey time"
+            placeholder="Journey_time"
             required
           />
         </FormGroup>

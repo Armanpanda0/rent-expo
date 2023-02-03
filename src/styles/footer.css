@@ -47,17 +47,18 @@
 
 .newsletter {
   display: flex;
+  color: rgb(232, 114, 114);
   align-items: center;
   justify-content: space-between;
   padding: 8px 12px;
-  border: 1px solid #7c8a972f;
+  border: 1px solid #78b6f02f;
   border-radius: 50px;
-  background: #020a4de9;
+  background: #dae819f6;
 }
 
 .newsletter input {
   background: transparent;
-  color: #fff;
+  color: rgb(0, 0, 0);
   border: none;
   outline: none;
 }

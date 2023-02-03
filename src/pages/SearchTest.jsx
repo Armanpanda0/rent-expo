@@ -2,6 +2,7 @@ import React from 'react'
 import { useState } from 'react';
 import carData from '../assets/data/carData';
 import CarItem from "../components/UI/CarItem"
+import "../../src/styles/SearchTest.css";
 const SearchTest = () => {
         
 const [search,setSearch] =useState([]);
@@ -35,9 +36,9 @@ setSearch(data)
 
 
   return (
-   <div>
- <div>
-        <input type ="text" placeholder="Search vehicle" onChange ={(e)=>{
+   <div className='main_box'>
+ <div className='search_box'>
+        <input  type ="text" placeholder="Search vehicle" onChange ={(e)=>{
           setName(e.target.value)
         }}/>
         <select onChange={(e)=>{
