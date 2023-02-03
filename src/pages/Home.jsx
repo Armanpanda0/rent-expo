@@ -103,6 +103,7 @@ const Home = () => {
             </Col>
 
             <BlogList />
+            {/* My name is NaliAAmba  */}
           </Row>
         </Container>
       </section>

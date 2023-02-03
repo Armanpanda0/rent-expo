@@ -12,11 +12,12 @@ import SearchTest from "../pages/SearchTest";
 import LoginTest from "../pages/LoginTest";
 import Profile from "../pages/Profile";
 
-const Routers = () => {
+const Routers = ({isVisible,setIsVisible}) => {
   return (
     <Routes>
       <Route path="/" element={<Navigate to="/home" />} />
       <Route path="/home" element={<Home />} />
+      {/* <Route path="/login" element={<Login />} /> */}
       <Route path="/searchTest" element={<SearchTest />} />
       <Route path="/login" element={<LoginTest />} />
       <Route path="/profile" element={<Profile />} />

@@ -17,7 +17,7 @@ const carData = [
     rating: 112,
     carName: "Splender",
     imgUrl: "https://imgd.aeplcdn.com/0x0/n/cw/ec/127607/splendor-plus-xtec-right-side-view.gif?isig=0",
-    model: "Model 3",
+    model: "Model 2022",
     price: 10,
     speed: "20kmpl",
     gps: "GPS Navigation",

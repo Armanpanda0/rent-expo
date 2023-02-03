@@ -32,7 +32,7 @@ const CarDetails = () => {
 
                 <div className=" d-flex align-items-center gap-5 mb-4 mt-3">
                   <h6 className="rent__price fw-bold fs-4">
-                    ${singleCarItem.price}.00 / Day
+                    Rs.{singleCarItem.price}.00 / Day
                   </h6>
 
                   <span className=" d-flex align-items-center gap-2">

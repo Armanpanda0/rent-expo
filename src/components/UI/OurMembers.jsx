@@ -2,9 +2,10 @@ import React from "react";
 import "../../styles/our-member.css";
 import { Col } from "reactstrap";
 import { Link } from "react-router-dom";
-import ava01 from "../../assets/all-images/ava-1.jpg";
-import ava02 from "../../assets/all-images/ava-2.jpg";
-import ava03 from "../../assets/all-images/ava-3.jpg";
+import amrit from "../../assets/all-images/amrit.jpg";
+import arman from "../../assets/all-images/arman.jpg";
+import chirag from "../../assets/all-images/chirag.jpg";
+import arzit from "../../assets/all-images/arzit.jpg";
 
 const OUR__MEMBERS = [
   {
@@ -14,7 +15,7 @@ const OUR__MEMBERS = [
     instUrl: "#",
     twitUrl: "#",
     linkedinUrl: "#",
-    imgUrl: ava01,
+    imgUrl: arman,
   },
 
   {
@@ -24,17 +25,17 @@ const OUR__MEMBERS = [
     instUrl: "#",
     twitUrl: "#",
     linkedinUrl: "#",
-    imgUrl: ava03,
+    imgUrl: arzit,
   },
 
   {
-    name: "chirag Das",
+    name: "Chirag Das",
     experience: "5 years of experience",
     fbUrl: "#",
     instUrl: "#",
     twitUrl: "#",
     linkedinUrl: "#",
-    imgUrl: ava03,
+    imgUrl: chirag,
   },
 
   {
@@ -44,7 +45,7 @@ const OUR__MEMBERS = [
     instUrl: "#",
     twitUrl: "#",
     linkedinUrl: "#",
-    imgUrl: ava01,
+    imgUrl: amrit,
   },
 ];
 
